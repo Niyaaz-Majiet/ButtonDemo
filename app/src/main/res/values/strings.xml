@@ -1,0 +1,7 @@
+ <resources>
+    <string name="app_name">ButtonDemo</string>
+    <string name="MainImage">MainImage</string>
+    <string name="todo">TODO</string>
+     <string name="increment">INCREMENT</string>
+
+ </resources>
